@@ -1,6 +1,6 @@
 name: 本文の誤り
 description: 本文の誤り（OCR の誤認識・脱字・ルビの混入など）を知らせる
-title: "[修正案] 陽成院歌合 "
+title: "[修正案] 陽成院歌合（続群書類従本） "
 labels: ["修正案"]
 body:
   - type: markdown
