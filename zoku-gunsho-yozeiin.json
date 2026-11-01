@@ -406,6 +406,10 @@
    "dai": "かつ"
   }
  ],
+ "translation": {
+  "count": 5,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-yozeiin",
   "work": "陽成院歌合",
@@ -418,7 +422,7 @@
   "blocks": 5,
   "chars": 760,
   "poems": 22,
-  "yaku": 0,
+  "yaku": 5,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T19:40:42+09:00"
