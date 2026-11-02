@@ -1,6 +1,6 @@
 name: 訳の誤り
 description: 現代語訳の誤りや、よりよい訳を知らせる
-title: "[訳] 陽成院歌合（国立公文書館蔵写本 底本） "
+title: "[訳] 陽成院歌合（夏虫恋） "
 labels: ["訳"]
 body:
   - type: input
